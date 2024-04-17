@@ -11,7 +11,7 @@ i love when the most people actually influencing from me with my program
 <br/>
 even they don't know about me 😩
 <br/>
-that's the reason why i started programming and jumped in this field
+that's the reason why i started to programming and jumped in this field
 
 ### 🌻 Learning 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
