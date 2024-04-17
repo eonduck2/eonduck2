@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20HELLO&nbsp;!%20&height=300&fontSize=100&textBg=true)
 
-# #Introduce
+# 🐢 Introduce
 🙌🏻 I'm Lee, 
 studying with interest all about the software programming
 
@@ -19,6 +19,8 @@ studying with interest all about the software programming
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/ApacheTomcat-FA320A?style=plastic&logo=ApacheTomcat&logoColor=white"/>
 <br/>
+<br/>
+<br/>
 
 ### ⚒️ Tools
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white">
@@ -32,9 +34,15 @@ studying with interest all about the software programming
 <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/HeidiSQL-DD344C?style=plastic&logo=SaltProject&logoColor=white"/>
 <br/>
+<br/>
+<br/>
 
 ### 📫 Contact
 <img src="https://img.shields.io/badge/whdtnxd@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
+
+<br/>
+<br/>
+<br/>
 
 # 👵 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eonduck2&layout=compact&theme=neon)](https://github.com/eonduck2/github-readme-stats)
@@ -42,7 +50,6 @@ studying with interest all about the software programming
 <br/>
 ![eonduck2's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonduck2&show_icons=true&theme=neon)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
 
 
 </div>
