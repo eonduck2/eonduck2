@@ -6,6 +6,12 @@
 # 👦 Introduce
 🙌🏻 I'm Lee, 
 studying with interest all about the software programming
+<br/>
+i love when the most people influencing from me with my program
+<br/>
+even they didn't know about me 😩
+<br/>
+that's the reason why i started programming and jumped in this field
 
 ### 🌻 Learning 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
