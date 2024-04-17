@@ -7,7 +7,7 @@
 🙌🏻 I'm Lee, 
 studying with interest all about the software programming
 <br/>
-i love when the most people influencing from me with my program
+i love when the most people actually influencing from me with my program
 <br/>
 even they didn't know about me 😩
 <br/>
