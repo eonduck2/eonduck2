@@ -43,9 +43,11 @@ that's the reason why i started to programming and jumped in this field
 <br/>
 <br/>
 
-### 📫 Contact
+### 📫 SNS & Contact
+<a href="https://velog.io/@eonduck2">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
+</a>
 <img src="https://img.shields.io/badge/whdtnxd@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
-
 <br/>
 <br/>
 <br/>
