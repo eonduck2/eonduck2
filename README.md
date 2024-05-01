@@ -22,7 +22,6 @@ that's the reason why i started to programming
 <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/ApacheTomcat-FA320A?style=plastic&logo=ApacheTomcat&logoColor=white"/>
 <br/>
 <br/>
