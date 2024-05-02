@@ -34,10 +34,10 @@ that's the reason why i started to programming
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=plastic&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/HeidiSQL-30B980?style=plastic&logo=SaltProject&logoColor=white"/>
+<img src="https://img.shields.io/badge/HeidiSQL-30B980?style=plastic&logo=SaltProject&logoColor=white"/> -->
 <br/>
 <br/>
 <br/>
