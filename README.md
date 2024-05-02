@@ -9,7 +9,7 @@ studying with interest all about the software programming
 <br/>
 i love when the most people actually influencing from me with my program
 <br/>
-even they don't know about me
+even, they don't know about me
 <br/>
 that's the reason why i started to programming
 
