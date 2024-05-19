@@ -52,7 +52,7 @@ that's the reason why i started to programming
 <br/>
 
 # 👵 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eonduck2&layout=compact&theme=neon)](https://github.com/eonduck2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eonduck2&langs_count=6&layout=compact&theme=neon)](https://github.com/eonduck2/github-readme-stats)
 <br/>
 <br/>
 ![eonduck2's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonduck2&show_icons=true&theme=neon)
