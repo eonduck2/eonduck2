@@ -1,17 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20HELLO&nbsp;!%20&height=300&fontSize=100&textBg=true)
-
-# 👦 Introduce
-🙌🏻 I'm Lee, 
-studying with interest all about the software programming
-<br/>
-i love when the most people actually influencing from me with my program
-<br/>
-even, they don't know about me
-<br/>
-that's the reason why i started to programming
-
 ### 🌻 Learning 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
