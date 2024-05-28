@@ -3,6 +3,7 @@
 ### 🌻 주로 사용
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
 
 ### 👁‍🗨 사용 경험 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white"/>
