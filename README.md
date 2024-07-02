@@ -1,5 +1,8 @@
 <div align="center">
 
+![eonduck2](https://tech-orbit.wontory.dev/api?title=eonduck2&tech=JavaScript,TypeScript,Tailwind%20CSS,styled-components,React,Git&size=700&duration=20)
+
+
 <!--
 ### 🌻 주로 사용
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
