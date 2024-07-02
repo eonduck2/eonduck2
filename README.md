@@ -5,9 +5,9 @@
 
 ### 👁‍🗨 사용 경험 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=SASS&logoColor=white">
 <img src="https://img.shields.io/badge/LESS-1D365D?style=plastic&logo=LESS&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Chakra UI-319795?style=plastic&logo=ChakraUI&logoColor=white">
 <br/>
 <br/>
