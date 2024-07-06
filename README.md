@@ -1,6 +1,10 @@
+
+
 <div align="center">
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=eonduck2&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-
+<div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/eonduck2"
@@ -8,52 +12,29 @@
   height="300"
 />
 </a>
-  
-<!--
-![eonduck2](https://tech-orbit.wontory.dev/api?title=eonduck2&tech=JavaScript,TypeScript,Tailwind%20CSS,styled-components,React,Git&size=700&duration=20)
--->
+</div>
 
+<br/>
+<br/>
 
-<!--
-### 👁‍🗨 사용 경험 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/SASS-CC6699?style=plastic&logo=SASS&logoColor=white">
-<img src="https://img.shields.io/badge/LESS-1D365D?style=plastic&logo=LESS&logoColor=white">
-<img src="https://img.shields.io/badge/Chakra UI-319795?style=plastic&logo=ChakraUI&logoColor=white">
+---
+
+<div align="left">
+  <img align="left" height="200" style="border-radius:7px" src="https://i.namu.wiki/i/7TpJiMdLkh0CF5BaXepxTiVtNYB57y__0jodJaqmUIMdrIfP0xMA790M7IYb5tU4S0uWAZYHeBijlqerp9Y3ao_dLGuiHHdr2z-GmprkDMk1wZfnL8YrUyf7HCti7T-si9zOBp3DUUjUCzZe4ox1Cg.webp"  />
+<span>이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고이거에러잡으면저거에러잡히고저거에러잡으면그거에러잡히고</span>
+</div>
+
+---
+
 <br/>
 <br/>
 <br/>
--->
-
-<!--
-### 🌻 주로 사용
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
--->
-
-<!--
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/OracleDB-F80000?style=plastic&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/HeidiSQL-30B980?style=plastic&logo=SaltProject&logoColor=white"/>
--->
 <br/>
-<!--
-### 📫 SNS & Contact
-<a href="https://velog.io/@eonduck2">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
+
+
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ahf5obk3y6weke7yslqv6vv6z4">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ahf5obk3y6weke7yslqv6vv6z4&show_border=1&custom_title=idontwannabeyouanymore&limit=3" alt="Data Card for Spotify">
 </a>
-<img src="https://img.shields.io/badge/whdtnxd@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
-<br/>
-<br/>
-<br/>
--->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eonduck2&langs_count=8&layout=compact&theme=neon)](https://github.com/eonduck2/github-readme-stats)
-![eonduck2's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonduck2&show_icons=true&theme=neon)
--->
-
 
 </div>
